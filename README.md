@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **goelkushagra2000@gmail.com**
 
-- ⚡ Fun fact **My favourite hobby is playing games, and solving DSA problems.**
+- ⚡ Fun fact **If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,3 @@
-[![MasterHead]]()
 
 <h1 align="center">Hi 👋, I'm Kushagra Goel</h1>
 <h3 align="center">A passionate frontend developer from New Delhi, India</h3>

@@ -1,4 +1,4 @@
-[![MasterHead](https://www.thingsatweb.com/wp-content/uploads/2022/04/thingsatweb_logo.gif)]()
+[![MasterHead]]()
 
 <h1 align="center">Hi 👋, I'm Kushagra Goel</h1>
 <h3 align="center">A passionate frontend developer from New Delhi, India</h3>

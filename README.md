@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently improving my **MERN Stack** skills
 
-- 💬 Ask me about **Html, CSS, Javascript**
+- 💬 Ask me about **FrontendDev, DevOps**
 
 - 📫 How to reach me **goelkushagra2000@gmail.com**
 
